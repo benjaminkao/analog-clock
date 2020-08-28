@@ -1,16 +1,16 @@
-# clock
+# Flutter Analog Clock
 
-An analog clock
+An analog clock.
 
-## Getting Started
+## Motivation
+This is my very first Flutter project and I wanted to begin to learn the basics of Flutter by building a simple analog clock.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screeenshots
+<img src="https://user-images.githubusercontent.com/54568364/91614806-13a0cd80-e937-11ea-8f33-1251df41e152.PNG" alt="Clock Screenshot" width="250"/>
+<img src="https://user-images.githubusercontent.com/54568364/91614894-44810280-e937-11ea-8698-b37d3714c452.PNG" alt="Dark Mode Screenshot" width="250"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Framework Used
+Built with
+- Flutter
